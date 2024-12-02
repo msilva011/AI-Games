@@ -1,0 +1,51 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / MonoDevelop project files
+ExportedObj/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Ignorar arquivos grandes
+*.zip
+*.resS
+*.resource
+
+
+# Unity3D meta files
+*.pidb.meta
+*.pdb.meta
+
+# Auto-generated files
+*.pidb
+*.booproj
+*.tmproj
+*.unitypackage
+
+# Crash Reports
+sysinfo.txt
+
+# Cache files
+.adtf/Cache/
+
+# Ignore builds
+Build/
+Builds/
+
+# Ignore logs
+Logs/
