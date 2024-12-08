@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rosam\\SENAC\\AI - Games\\MY_GALLERY_3D\\",
+  "WorkspaceRootPath": "C:\\Users\\rosam\\SENAC\\AI-Games\\MY_GALLERY_3D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DD6293B-422A-7C14-F87E-90396A176ED8}|Assembly-CSharp.csproj|c:\\users\\rosam\\senac\\ai - games\\my_gallery_3d\\assets\\scripts\\cam_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DD6293B-422A-7C14-F87E-90396A176ED8}|Assembly-CSharp.csproj|c:\\users\\rosam\\senac\\ai-games\\my_gallery_3d\\assets\\scripts\\cam_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DD6293B-422A-7C14-F87E-90396A176ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cam_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD6293B-422A-7C14-F87E-90396A176ED8}|Assembly-CSharp.csproj|c:\\users\\rosam\\senac\\ai-games\\my_gallery_3d\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD6293B-422A-7C14-F87E-90396A176ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\rosam\\SENAC\\AI-Games\\MY_GALLERY_3D\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\rosam\\SENAC\\AI-Games\\MY_GALLERY_3D\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:53:06.889Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Cam_player.cs",
-              "DocumentMoniker": "C:\\Users\\rosam\\SENAC\\AI - Games\\MY_GALLERY_3D\\Assets\\Scripts\\Cam_player.cs",
+              "DocumentMoniker": "C:\\Users\\rosam\\SENAC\\AI-Games\\MY_GALLERY_3D\\Assets\\Scripts\\Cam_player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Cam_player.cs",
-              "ToolTip": "C:\\Users\\rosam\\SENAC\\AI - Games\\MY_GALLERY_3D\\Assets\\Scripts\\Cam_player.cs",
+              "ToolTip": "C:\\Users\\rosam\\SENAC\\AI-Games\\MY_GALLERY_3D\\Assets\\Scripts\\Cam_player.cs",
               "RelativeToolTip": "Assets\\Scripts\\Cam_player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T00:14:54.096Z",
               "EditorCaption": ""
