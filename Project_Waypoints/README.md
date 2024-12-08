@@ -64,10 +64,13 @@
          Reduzi o valor de accuracy para 0.2f, garantindo maior precisão ao identificar a chegada ao waypoint.
          Adicionei cálculos de direção mais precisos e suavizei as rotações;
       2. **Controle da Velocidade do Player**
+   
          Diminuí o valor de speed para 3.0f, proporcionando um deslocamento mais controlado e natural;
       3. **Sistema de Correção para Quedas**
-         Criamos um método CheckFall que reposiciona o player no waypoint inicial ao detectar que ele caiu abaixo de um limite definido.
+         
+         Criado um método CheckFall que reposiciona o player no waypoint inicial ao detectar que ele caiu abaixo de um limite definido.
       4. **Implementação de um Script para a Câmera**
+         
          Criado e configurado um script para a câmera seguir o player (não em primeira pessoa):
          A posição é atualizada com base no player, adicionando um offset para um ângulo adequado.
          Adicionado suavização no movimento com Vector3.Lerp.
@@ -82,3 +85,27 @@ As soluções aplicadas garantiram que:
 
 ### Conclusão
 As dificuldades enfrentadas foram resolvidas com soluções simples e eficazes. O sistema está agora funcional e pronto para melhorias adicionais.
+
+### [Visualizar Projeto](https://play.unity.com/en/games/ef160d11-dcde-4555-afd8-7b93b734b81f/ancient-world)
+
+-----------------------------------------------------------------------------------------------------------
+
+### REFERENCIAS
+
+#### CASTELO
+Fantasy Castle Free 3D Model. Disponível em: https://free3d.com/3d-model/fantasy-castle-40715.html.
+
+#### Texturas
+Google Image
+
+#### Escultura
+Greek Slave sculpture | CGTrader. Disponível em: https://www.cgtrader.com/items/2484751/download-page.
+
+#### Pirâmides
+LOW, F. Future low poly floating pyramid | 3D model. Disponível em: https://www.cgtrader.com/free-3d-models/exterior/historic-exterior/future-low-poly-floating-pyramid.
+
+#### Fonte Chafariz
+HORSE. horse fountain | 3D model. Disponível em: <https://www.cgtrader.com/free-3d-models/architectural/other/horse-fountain-608bddf9-a2ff-48e0-a864-1c8d1c2065a6>.
+
+#### Coliseum
+KOLIZEY COLISEUM | CGTrader. Disponível em: https://www.cgtrader.com/items/2384401/download-page.
